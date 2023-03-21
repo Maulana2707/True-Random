@@ -1,0 +1,3 @@
+TrueRandom library
+by Maulana Ikhsan 2023
+github.com/Maulana2707
