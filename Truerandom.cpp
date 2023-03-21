@@ -1,7 +1,8 @@
 /**
  * TrueRandom - A true random number generator for Arduino.
  *
- * Copyright (c) 2023 Maulana Ikhsan
+ * Copyright (c) Maulana Ikhsan 2023 All rights reserved.
+ */
 
 #include <avr/io.h>
 #include "TrueRandom.h"
